@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>SSR Bot</title>
+        <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="22d4ca67-050f-4046-aa00-91ecab56c1fe";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
+    </head>
+    <body>
+        Welcome to our page!
+       
+    </body>
+</html>
